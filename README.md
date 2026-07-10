@@ -55,7 +55,9 @@ Currently completing my **AI/ML Internship at DEVFORGE** (Jul – Sep 2026), aft
 
 AI-powered intelligent surveillance system with real-time object detection, automated threat detection, and email alert generation. Production-ready implementation with SMTP email integration.
 
-🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE)
+🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE)  |  ## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://vigilant-eye-gold.vercel.app/)
 
 ---
 
@@ -82,7 +84,9 @@ Production-grade conversational RAG system answering questions about AI/ML resea
 - **Evaluation:** 8-question benchmark suite with latency & relevance metrics
 - **UI:** Dark-mode Streamlit application with source document viewer
 
-🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG)
+🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG) | ## 🚀 Live Demo
+
+[![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face-Live%20Demo-FFD21E?style=for-the-badge&logo=huggingface)](https://samiuthwal-scholarai.hf.space/)
 
 ---
 
