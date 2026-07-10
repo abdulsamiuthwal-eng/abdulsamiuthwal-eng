@@ -157,19 +157,13 @@ Intelligent support ticket routing system using two LLM strategies:
 
 ---
 
-## 🎨 3D Animations (Professional)
-
-<div align="center">
-
-<p>
+<p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="3D Laptop Coding" width="220" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/71z5xSQDyGmsyIhVdO/giphy.gif" alt="3D Developer Workspace" width="220" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="3D Portfolio Showcase" width="220" />
 </p>
-
-</div>
 
 ---
 
