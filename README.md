@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsamiuthwal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsamiuthwal-eng)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@abdulsamiuthwal.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulsamiuthwal-portfolio.vercel.app/)
 
 </div>
 
@@ -16,9 +17,9 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision applications, and intelligent web services. My expertise spans **deep learning**, **NLP**, **retrieval-augmented generation (RAG)**, and **full-stack development**.
+I'm a passionate **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision applications, and intelligent web servic...
 
-Currently completing my **AI/ML Internship at DEVFORGE** (Jul – Sep 2026), after an internship with **DevelopersHub Corporation**. I combine theoretical knowledge with practical engineering to deliver scalable, real-world solutions.
+Currently completing my **AI/ML Internship at DEVFORGE** (Jul – Sep 2026), after an internship with **DevelopersHub Corporation**. I combine theoretical knowledge with practical engineering to d...
 
 ---
 
@@ -150,7 +151,29 @@ Intelligent support ticket routing system using two LLM strategies:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamiuthwal-eng&theme=dark&layout=compact&hide_border=true&langs_count=10&bg_color=1a1b27&text_color=c9cacc)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdulsamiuthwal-eng&theme=dark&hide_border=true&background=1a1b27&stroke=c9cacc&ring=58a6ff&fire=ff7b72&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9cacc)
+![GitHub Streak](https://github-readme-stats.vercel.app/api?user=abdulsamiuthwal-eng&theme=dark&hide_border=true&background=1a1b27&stroke=c9cacc&ring=58a6ff&fire=ff7b72&currStreakNum=c9cac)
+
+</div>
+
+---
+
+## 🎨 3D Animations (Professional)
+
+<div align="center">
+
+<p align="center">Here are three professional 3D-style animations that represent coding, a developer workspace, and a portfolio showcase. These are hotlinked GIFs and display well in GitHub READMEs. You can replace these assets later with your own GIFs saved under <code>/assets/readme/</code> if you prefer self-hosting.</p>
+
+<p>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="3D Laptop Coding" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/71z5xSQDyGmsyIhVdO/giphy.gif" alt="3D Developer Workspace" width="220" />
+  &nbsp;&nbsp;
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="3D Portfolio Showcase" width="220" />
+</p>
+
+<p>
+  <em>Left:</em> Coding / Laptop • <em>Center:</em> Developer Workspace • <em>Right:</em> Portfolio Showcase
+</p>
 
 </div>
 
@@ -165,7 +188,7 @@ Intelligent support ticket routing system using two LLM strategies:
 ✅ **Computer Vision** — Object detection (YOLOv8), real-time processing, surveillance systems  
 ✅ **Full-Stack Development** — FastAPI backends, React frontiers, API design, deployment  
 ✅ **Data Pipeline Engineering** — EDA, preprocessing, feature engineering, scikit-learn  
-✅ **Software Architecture** — Clean code, design patterns, production-grade systems  
+✅ **Software Architecture** — Clean code, design patterns, production-grade systems
 
 ---
 
@@ -201,7 +224,8 @@ I'm interested in:
 
 **📧 Email:** contact@abdulsamiuthwal.com  
 **💼 LinkedIn:** [Abdul Sami Uthwal](https://linkedin.com/in/abdulsamiuthwal)  
-**🐙 GitHub:** [@abdulsamiuthwal-eng](https://github.com/abdulsamiuthwal-eng)
+**🐙 GitHub:** [@abdulsamiuthwal-eng](https://github.com/abdulsamiuthwal-eng)  
+**🌐 Portfolio:** [abdulsamiuthwal-portfolio.vercel.app](https://abdulsamiuthwal-portfolio.vercel.app/)
 
 ---
 
