@@ -161,18 +161,12 @@ Intelligent support ticket routing system using two LLM strategies:
 
 <div align="center">
 
-<p align="center">Here are three professional 3D-style animations that represent coding, a developer workspace, and a portfolio showcase. These are hotlinked GIFs and display well in GitHub READMEs. You can replace these assets later with your own GIFs saved under <code>/assets/readme/</code> if you prefer self-hosting.</p>
-
 <p>
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="3D Laptop Coding" width="220" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/71z5xSQDyGmsyIhVdO/giphy.gif" alt="3D Developer Workspace" width="220" />
   &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="3D Portfolio Showcase" width="220" />
-</p>
-
-<p>
-  <em>Left:</em> Coding / Laptop • <em>Center:</em> Developer Workspace • <em>Right:</em> Portfolio Showcase
 </p>
 
 </div>
