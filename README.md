@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML Engineer | Software Engineer | Computer Vision Specialist
 
-*Building intelligent, production-grade systems with Machine Learning, Computer Vision, and full-stack engineering*
+*Building intelligent, production-grade systems with Machine Learning, Computer Vision, and full-stack engineering.*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsamiuthwal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsamiuthwal-eng)
