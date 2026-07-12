@@ -17,7 +17,7 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision applications, and intelligent web servic...
+I'm a passionate **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision applications, and intelligent web services
 
 Currently completing my **AI/ML Internship at DEVFORGE** (Jul – Sep 2026), after an internship with **DevelopersHub Corporation**. I combine theoretical knowledge with practical engineering to d...
 
