@@ -61,7 +61,8 @@ AI-powered intelligent surveillance system with real-time object detection, auto
 
 **Key Metrics:** 30+ FPS processing | 92% detection accuracy | Multi-class threat classification
 
-🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE) |[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://vigilant-eye-gold.vercel.app/)
+🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE) 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://vigilant-eye-gold.vercel.app/)
 
 ---
 
