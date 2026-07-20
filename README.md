@@ -5,7 +5,7 @@
 ### 🤖 AI/ML Engineer | Software Engineer | Computer Vision Specialist
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production-Grade+AI+Systems;Computer+Vision+Specialist;Full-Stack+Engineer;ML+Pipeline+Expert&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&size=22&duration=4000&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Building+Production-Grade+AI+Systems;Computer+Vision+Specialist;Full-Stack+Engineer;ML+Pipeline+Expert&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&size=22&duration=4000&pause=1000" />
 </a>
 
 *Building intelligent, production-grade systems with Machine Learning, Computer Vision, and full-stack engineering*
