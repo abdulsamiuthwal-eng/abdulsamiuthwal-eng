@@ -5,7 +5,7 @@
 ### 🤖 AI/ML Engineer | Software Engineer | Computer Vision Specialist
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=SOFTWARE+ENGINEER;AI/ML+ENGINEER;GENERATIVE+AI+ENGINEER;LLM+%26+RAG+DEVELOPER;AI+CHATBOT+DEVELOPER;PYTHON+%26+FASTAPI+DEVELOPER;COMPUTER+VISION+%26+NLP;BUILDING+PRODUCTION-READY+AI+SYSTEMS&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&size=22&duration=4000&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+SOFTWARE+ENGINEER;🤖+AI/ML+ENGINEER;✨+GENERATIVE+AI+ENGINEER;🧠+LLM+%26+RAG+DEVELOPER;💬+AI+CHATBOT+DEVELOPER;⚡+PYTHON+%26+FASTAPI+DEVELOPER;👁️+COMPUTER+VISION+%26+NLP;🏗️+BUILDING+PRODUCTION-READY+AI+SYSTEMS&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&size=22&duration=4000&pause=1000" />
 </a>
 
 *Building intelligent, production-grade systems with Machine Learning, Computer Vision, and full-stack engineering*
