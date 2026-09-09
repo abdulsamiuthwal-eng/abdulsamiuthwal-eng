@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🤖 AI/ML Engineer | Software Engineer | Computer Vision Specialist
+### Software Engineer | 🤖 AI/ML Engineer | Computer Vision Specialist
 
 <a href="#">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+SOFTWARE+ENGINEER;🤖+AI/ML+ENGINEER;✨+GENERATIVE+AI+ENGINEER;🧠+LLM+%26+RAG+DEVELOPER;💬+AI+CHATBOT+DEVELOPER;⚡+PYTHON+%26+FASTAPI+DEVELOPER;👁️+COMPUTER+VISION+%26+NLP;🏗️+BUILDING+PRODUCTION-READY+AI+SYSTEMS&font=Fira+Code&center=true&width=600&height=45&color=00FF00&vCenter=true&size=22&duration=4000&pause=1000" />
