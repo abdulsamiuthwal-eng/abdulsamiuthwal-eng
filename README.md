@@ -47,7 +47,7 @@ I combine solid theoretical foundations with pragmatic software craftsmanship to
 - Completed an intensive machine learning program completing **37 practical assignments** across Data Wrangling, Embeddings & Clustering, Intent & Opportunity Modeling, and Insight to Action.
 - Engineered the **"Google Search Ranking & Discoverability Capstone"**, successfully reviewed and accepted by the lead engineering mentor.
 - Completed 20 verified Anthropic Academy learning modules and participated in 67 technical project syncs.
-- 🔗 **Verified Credential:** `FR-D10-754F4-F4FAF` — [Verify Official Letter](https://internship.flyrank.ai/verify?id=FR-D10-754F4-F4FAF)
+- 📜 **Credential ID:** `FR-D10-754F4-F4FAF` (Machine Learning Specialization)
 
 ### 🔬 **AI Engineering Intern** | **DEVFORGE**
 **July 2026 – September 2026**
@@ -239,8 +239,7 @@ Automated ticket classification engine comparing zero-shot and few-shot inferenc
 
 > **"Abdul Sami completed the FlyRank AI Internship Program in the role of Machine Learning Engineering Intern. During the program, Abdul completed 37 practical assignments across Data Wrangling, Embeddings & Clustering, Intent & Opportunity Modeling, and Insight to Action. As the culminating project, he delivered the 'Google Search Ranking & Discoverability Capstone'. Based on this verified completion record, I recommend Abdul for opportunities aligned with Machine Learning Engineering and Applied AI roles."**
 > 
-> — **Alen Malkoc**, *Founder & CEO, FlyRank Corp., USA*  
-> 🔗 **[Verify Official Recommendation](https://internship.flyrank.ai/verify?id=FR-D10-754F4-F4FAF)**
+> — **Alen Malkoc**, *Founder & CEO, FlyRank Corp., USA*
 
 > **"Mr. Abdul Sami has consistently demonstrated a strong commitment to academic excellence. He actively participated in classroom discussions, showed an excellent ability to grasp new concepts, and approached academic challenges with enthusiasm and determination. Beyond his academic performance, he possesses strong analytical abilities, adaptability, and high professional integrity."**
 > 
