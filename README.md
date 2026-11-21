@@ -12,8 +12,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsamiuthwal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsamiuthwal-eng)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@abdulsamiuthwal.com)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamiuthwal@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulsamiuthwal-portfolio.vercel.app/)
+[![Credly](https://img.shields.io/badge/-Credly_Badges-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abdul-sami-uthwal)
 
 </div>
 
@@ -21,11 +22,11 @@
 
 ## 🎯 About Me
 
-I'm a passionate **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision applications, and intelligent web services. I specialize in translating complex machine learning concepts into scalable, real-world solutions.
+I'm a dedicated **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision pipelines, and intelligent web applications. I specialize in translating machine learning models and large language models (LLMs) into scalable, real-world solutions.
 
-Currently completing my **AI/ML Internship at DEVFORGE** (Jul – Sep 2026), where I develop end-to-end machine learning pipelines, RAG-based conversational systems, and deploy production-ready applications. Previously interned with **DevelopersHub Corporation**, gaining expertise in model development, feature engineering, and deployment strategies.
+With experience across multiple engineering internships—including **FlyRank Corp. (USA)**, **DEVFORGE**, **DecodeLabs**, and **DevelopersHub Corporation**—I have built and deployed end-to-end ML architectures, RAG-driven knowledge assistants, real-time object detection systems, and high-throughput FastAPI backends.
 
-I combine theoretical knowledge with practical engineering to deliver solutions that solve real business problems. Passionate about open-source contribution, continuous learning, and mentorship.
+I combine solid theoretical foundations with pragmatic software craftsmanship to solve tangible business problems. Passionate about applied AI, reproducible engineering, and continuous learning.
 
 ---
 
@@ -33,26 +34,37 @@ I combine theoretical knowledge with practical engineering to deliver solutions 
 
 **Bachelor of Science in Software Engineering**  
 *The University of Faisalabad*, Pakistan  
-📚 Focus Areas: AI/ML, Data Structures, Software Architecture, Capstone Project: Smart Queue Management System
+📚 **Focus Areas:** AI/ML, Data Structures & Algorithms, Software Architecture, Distributed Systems  
+🎯 **Capstone Project:** Smart Queue Management System with Computer Vision Analytics  
+🏅 **Honors:** Officially recognized among the **Top 10% of students** by the Dean of the Faculty of Information Technology  
 
 ---
 
 ## 💼 Professional Experience
 
+### 🔬 **Machine Learning Engineering Intern** | **FlyRank Corp.** (Casper, WY, USA — Remote)
+**July 2026 – September 2026**
+- Completed an intensive machine learning program completing **37 practical assignments** across Data Wrangling, Embeddings & Clustering, Intent & Opportunity Modeling, and Insight to Action.
+- Engineered the **"Google Search Ranking & Discoverability Capstone"**, successfully reviewed and accepted by the lead engineering mentor.
+- Completed 20 verified Anthropic Academy learning modules and participated in 67 technical project syncs.
+- 🔗 **Verified Credential:** `FR-D10-754F4-F4FAF` — [Verify Official Letter](https://internship.flyrank.ai/verify?id=FR-D10-754F4-F4FAF)
+
 ### 🔬 **AI/ML Intern** | **DEVFORGE**
 **July 2026 – September 2026**
-- Developing production-grade ML systems and intelligent web applications with measurable impact
-- Building RAG-based chatbots with LangChain, ChromaDB, and enterprise-grade LLMs
-- Implementing zero-shot and few-shot classification pipelines for NLP tasks
-- End-to-end ML pipeline design with scikit-learn, Pandas, and advanced preprocessing techniques
-- Deployed models achieving 80%+ accuracy with optimized training pipelines
+- Developed production-grade ML systems and intelligent web applications with measurable performance metrics.
+- Built context-aware RAG systems leveraging LangChain, ChromaDB, and high-performance LLMs (Groq / Llama 3.1).
+- Implemented zero-shot and few-shot classification pipelines for text categorization and support ticket routing.
+- Designed robust ML pipelines with scikit-learn, Pandas, and advanced feature preprocessing.
+
+### 🔬 **AI / Software Engineering Intern** | **DecodeLabs**
+**2026**
+- Collaborated on developing intelligent backend services, automated data preprocessing, and API integration.
+- Tested and optimized machine learning inference workflows for web applications.
 
 ### 🔬 **AI/ML Intern** | **DevelopersHub Corporation**
-- Developed and deployed machine learning models for real-world predictive analytics
-- Conducted comprehensive exploratory data analysis (EDA) and feature engineering on large datasets
-- Implemented linear regression and classification models with performance validation
-- Optimized data preprocessing pipelines, reducing model training time by 25%
-- Collaborated on ML architecture decisions and model evaluation frameworks
+- Developed predictive machine learning models and conducted extensive exploratory data analysis (EDA).
+- Designed regression and classification pipelines with rigorous cross-validation.
+- Optimized preprocessing routines, reducing model training time by **25%**.
 
 ---
 
@@ -61,9 +73,9 @@ I combine theoretical knowledge with practical engineering to deliver solutions 
 ### 1. 👁️ **VIGILANT-EYE** — Real-Time AI Surveillance System
 *Computer Vision | YOLOv8 | OpenCV | Python | Production-Ready*
 
-AI-powered intelligent surveillance system with real-time object detection, automated threat detection, and email alert generation. Deployed with SMTP integration for instant notifications.
+AI-powered intelligent surveillance system featuring real-time object detection, automated threat identification, and instant SMTP email alerts upon unauthorized or suspicious activity.
 
-**Key Metrics:** 30+ FPS processing | 92% detection accuracy | Multi-class threat classification
+**Key Metrics:** 30+ FPS real-time processing | 92% detection accuracy | Multi-class threat classification
 
 🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://vigilant-eye-gold.vercel.app/)
 
@@ -72,51 +84,47 @@ AI-powered intelligent surveillance system with real-time object detection, auto
 ### 2. 💬 **AuraSentiment** — End-to-End Sentiment Analysis Web App
 *NLP | FastAPI | React | Full-Stack Deployment | Production-Grade*
 
-Premium sentiment analysis application classifying text into Positive/Neutral/Negative with confidence scores and comprehensive analytics.
+Full-stack sentiment intelligence application classifying input text into Positive, Neutral, or Negative with real-time confidence scores and analytical breakdown.
 
 **Features:**
-- **Backend:** FastAPI microservice with TF-IDF, Logistic Regression, NLTK preprocessing
-- **Frontend:** Glassmorphic React UI with real-time API integration and response visualization
-- **Deployment:** Live on Vercel (Frontend) & Render (API Backend)
-- **API Docs:** Interactive Swagger UI & ReDoc documentation
+- **Backend:** High-throughput FastAPI microservice with TF-IDF, Logistic Regression, and NLTK preprocessing
+- **Frontend:** Glassmorphic modern React interface with dynamic visualization
+- **Deployment:** Live on Vercel (Frontend) & Render (API Backend) with interactive Swagger documentation
 
-**Key Metrics:** 80%+ accuracy | <200ms API response time | 500+ test cases validated
+**Key Metrics:** 80%+ accuracy | <200ms API response time | Automated test suite
 
 🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/Sentiment-Analysis-Web-App) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=for-the-badge&logo=vercel)](https://sentiment-analysis-web-app-gcgl.vercel.app/)
 
 ---
 
-### 3. 🧠 **Context-Aware RAG Chatbot** — AI-Powered Knowledge Assistant
+### 3. 🧠 **Context-Aware RAG Chatbot (ScholarAI)** — AI Knowledge Assistant
 *LangChain | ChromaDB | Streamlit | Groq LLM (Llama 3.1 70B) | Python*
 
-Production-grade conversational RAG system answering domain-specific questions with semantic understanding and source attribution.
+Production-ready conversational RAG assistant answering domain-specific queries with semantic document retrieval and exact source attribution.
 
 **Features:**
-- **RAG Pipeline:** Vector embeddings, semantic retrieval, generation with Llama 3.1 70B LLM
-- **Memory System:** ConversationBufferWindowMemory for multi-turn context retention
-- **Vector Database:** ChromaDB with persistent local storage and efficient similarity search
-- **Evaluation:** 8-question benchmark suite measuring latency & relevance scores
-- **UI:** Dark-mode Streamlit application with document source viewer and conversation history
+- **RAG Pipeline:** Vector embeddings, chunking strategies, semantic retrieval, and generation via Llama 3.1 70B
+- **Memory System:** Multi-turn conversational context retention with ConversationBufferWindowMemory
+- **Vector Database:** ChromaDB with persistent local vector storage and fast cosine similarity search
+- **UI:** Responsive dark-mode interface with source citation inspection
 
-**Key Metrics:** Sub-2s response latency | 8.5/10 relevance score | 12+ documents indexed
+**Key Metrics:** Sub-2s response latency | 8.5/10 relevance benchmark | Live on Hugging Face Spaces
 
-🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG) | [![Hugging Face Spaces](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface)](https://samiuthwal-scholarai.hf.space/)
+🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG) | [![Live Demo](https://img.shields.io/badge/Live%20Demo-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface)](https://samiuthwal-scholarai.hf.space/)
 
 ---
 
-### 4. 🏷️ **Auto-Tagging Support Tickets Using LLM** — Intelligent Ticket Classification
+### 4. 🏷️ **Auto-Tagging Support Tickets Using LLM** — Intelligent Classification
 *Zero-Shot & Few-Shot Classification | HuggingFace Transformers | Python | ML Evaluation*
 
-Intelligent support ticket routing system using advanced NLP classification strategies with multi-model comparison.
+Automated ticket classification engine comparing zero-shot and few-shot inference models to classify customer support tickets into fine-grained service categories.
 
 **Features:**
-- **Zero-Shot Model:** facebook/bart-large-mnli with NLI hypothesis scoring approach
-- **Few-Shot Model:** google/flan-t5-base with prompt engineering for context-aware classification
-- **Predictions:** Top-3 tag recommendations with confidence scores across 10 ticket categories
-- **Evaluation:** Comprehensive metrics (Accuracy, F1, Precision, Recall, Mean Reciprocal Rank)
-- **Visualization:** 9 analysis charts (confusion matrices, performance comparisons, confidence distributions)
+- **Zero-Shot:** `facebook/bart-large-mnli` utilizing natural language inference hypothesis testing
+- **Few-Shot:** `google/flan-t5-base` with structured few-shot prompt templates
+- **Evaluation:** Evaluated across Precision, Recall, F1-Score, and Mean Reciprocal Rank (MRR)
 
-**Key Metrics:** 87% accuracy (Few-Shot) | 78% accuracy (Zero-Shot) | 0.92 F1-Score
+**Key Metrics:** 87% Few-Shot Accuracy | 78% Zero-Shot Accuracy | 0.92 Weighted F1-Score
 
 🔗 [View Repository](https://github.com/abdulsamiuthwal-eng/PART-2-TASK5_Auto-Tagging-Support-Tickets-Using-LLM)
 
@@ -128,13 +136,13 @@ Intelligent support ticket routing system using advanced NLP classification stra
 
 | Category | Proficiency | Technologies |
 |----------|------------|--------------|
-| 🤖 **Machine Learning & AI** | ████████████░░░ 92% | Python, Scikit-learn, Pandas, NumPy, PyTorch |
-| 🎬 **Computer Vision** | ███████████░░░░ 88% | OpenCV, YOLOv8, Object Detection, Real-time Processing |
-| 🧠 **NLP & LLMs** | ████████████░░░ 90% | LangChain, HuggingFace, RAG, ChromaDB, Prompt Engineering |
-| 🌐 **Backend Development** | ███████████░░░░ 88% | FastAPI, Flask, Streamlit, API Design |
-| 💻 **Frontend Development** | ██████████░░░░░ 85% | React, JavaScript, HTML5, CSS3, Glassmorphism |
-| 🗄️ **Databases** | ██████████░░░░░ 85% | Firebase, SQLite, MySQL, ChromaDB |
-| 🔧 **DevOps & Tools** | ███████████░░░░ 87% | Git, Docker, Vercel, Render, AWS, GitHub Actions |
+| 🤖 **Machine Learning & AI** | ████████████░░░ 90% | Python, Scikit-learn, Pandas, NumPy, Data Wrangling |
+| 🎬 **Computer Vision** | ███████████░░░░ 88% | OpenCV, YOLOv8, Real-Time Inference, Video Analytics |
+| 🧠 **NLP & LLMs** | ████████████░░░ 90% | LangChain, ChromaDB, HuggingFace, RAG Pipelines, Prompt Engineering |
+| 🌐 **Backend Development** | ███████████░░░░ 88% | FastAPI, Flask, Streamlit, REST APIs, Microservices |
+| 💻 **Frontend Development** | ██████████░░░░░ 82% | React, JavaScript, HTML5, CSS3, Modern UI/UX |
+| 🗄️ **Databases & Vector Stores**| ██████████░░░░░ 85% | ChromaDB, SQLite, MySQL, Firebase |
+| 🔧 **DevOps & Deployment** | ███████████░░░░ 85% | Git, GitHub, Docker, Vercel, Render, AWS, Hugging Face |
 
 ### 📦 **Technology Stack**
 
@@ -145,7 +153,6 @@ Intelligent support ticket routing system using advanced NLP classification stra
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 #### 🎬 Computer Vision
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EEE?style=for-the-badge&logo=opencv&logoColor=white)
@@ -154,34 +161,14 @@ Intelligent support ticket routing system using advanced NLP classification stra
 #### 🧠 NLP & LLMs
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-FF6B35?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/-Groq%20LLM-000000?style=for-the-badge)
 
-#### 🌐 Backend & Full-Stack
+#### 🌐 Backend & Deployment
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-#### 💻 Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🗄️ Databases & Platforms
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🔧 Tools & Deployment
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
@@ -195,7 +182,7 @@ Intelligent support ticket routing system using advanced NLP classification stra
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsamiuthwal-eng&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=1a1b27&text_color=c9cacc)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulsamiuthwal-eng&theme=dark&show_icons=true&hide_border=true&bg_color=1a1b27&text_color=c9cacc)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulsamiuthwal-eng&theme=dark&layout=compact&hide_border=true&langs_count=10&bg_color=1a1b27&text_color=c9cacc)
 
@@ -203,103 +190,85 @@ Intelligent support ticket routing system using advanced NLP classification stra
 
 ---
 
-## 🏆 **Achievements & Certifications**
+## 🏆 **Achievements & Verified Credentials**
 
 <div align="center">
 
-### 🎖️ Professional Achievements
+### 🎖️ Professional Track Record
 
-| Achievement | Status | Date |
-|------------|--------|------|
-| 🤖 **AI/ML Internship** - DEVFORGE | ✅ Completed | Jul - Sep 2026 |
-| 💻 **Sentiment Analysis Pipeline** | ✅ 80%+ Accuracy | Jun 2026 |
-| 📚 **RAG Chatbot System** | ✅ Production-Ready | Jun 2026 |
-| 🏷️ **LLM Classification Model** | ✅ 87% Accuracy | Jun 2026 |
-| 👁️ **Real-Time Surveillance System** | ✅ 92% Detection | May 2026 |
-| 🎬 **Computer Vision Projects** | ✅ 15+ Completed | Ongoing |
+| Achievement / Milestone | Organization | Status | Date |
+|-------------------------|--------------|--------|------|
+| 🤖 **FlyRank AI Internship (ML Track)** | FlyRank Corp. (USA) | ✅ Verified Completion | Sep 2026 |
+| 🔬 **AI/ML Internship** | DEVFORGE | ✅ Completed | Jul - Sep 2026 |
+| 🎓 **Top 10% Academic Standing** | The University of Faisalabad | 🏅 Dean's Recommendation | Oct 2026 |
+| 💬 **AuraSentiment Full-Stack App** | Independent Project | ✅ Production Deployed | Jun 2026 |
+| 🧠 **ScholarAI RAG Chatbot** | Independent Project | ✅ Live on HuggingFace | Jun 2026 |
+| 👁️ **Vigilant-Eye Real-Time System** | Independent Project | ✅ 92% Detection | May 2026 |
 
-### 📜 **Certifications & Badges**
+### 📜 **Verified Digital Badges & Certifications**
 
-![Python](https://img.shields.io/badge/Python_Developer-Verified-4CAF50?style=for-the-badge)
-![AI/ML](https://img.shields.io/badge/AI%2FML_Engineer-Advanced-2196F3?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI_Backend-Expert-009688?style=for-the-badge)
-![CV](https://img.shields.io/badge/Computer_Vision-Skilled-9C27B0?style=for-the-badge)
-![Full_Stack](https://img.shields.io/badge/Full_Stack-Competent-FF9800?style=for-the-badge)
+*All badges are officially verifiable via Credly and direct credential registries:*
 
-**Upcoming:**
-- 🎓 GitHub Education Student Developer Pack (Pending)
-- 🔬 Advanced ML Specialization (In Progress)
-- 🏅 AWS Solutions Architect Associate (Planned)
+[![AWS Educate](https://img.shields.io/badge/AWS_Educate-Generative_AI-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/5027846b-54ef-4371-830f-7d7f4779c420)
+[![Google Data Analytics](https://img.shields.io/badge/Google-Advanced_Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/d1554165-2600-4bed-b446-8149cdaf0985)
+[![Cisco](https://img.shields.io/badge/Cisco-Intro_to_Data_Science-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b15b6f42-cee8-4255-ad99-2c01467bf72f)
+[![Google AI](https://img.shields.io/badge/Google-Prompting_Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/2e23f984-1c07-4f22-81bf-bd6656dd1ac8)
+[![Google AI Essentials](https://img.shields.io/badge/Google-AI_Essentials_V1-EA4335?style=for-the-badge&logo=google&logoColor=white)](https://www.credly.com/badges/38c57e20-4c47-4ac6-891b-926b0501cb7d)
+[![Anthropic](https://img.shields.io/badge/Anthropic_Academy-Claude_Code_Certified-D97706?style=for-the-badge)](https://verify.skilljar.com/c/wncwz8rd23ro)
+
+🔗 **[👉 View All 12 Official Badges on my Credly Profile](https://www.credly.com/users/abdul-sami-uthwal)**
 
 </div>
 
 ---
 
-## 📝 **Featured Articles & Blog Posts**
+## 💬 **Official Recommendations & Endorsements**
 
 <div align="center">
 
-### 📚 Technical Writing
+### ⭐ Academic & Industry Endorsements
 
-| Article | Platform | Topic | Date |
-|---------|----------|-------|------|
-| **Building Production-Grade RAG Systems** | Medium | LLM Architecture | Coming Soon |
-| **Computer Vision Best Practices** | Dev.to | Real-Time Processing | Coming Soon |
-| **FastAPI + React Integration Guide** | Hashnode | Full-Stack Dev | Coming Soon |
-| **Zero-Shot Classification with Transformers** | Medium | NLP/LLMs | Coming Soon |
-| **YOLOv8 Deployment Strategies** | Dev.to | Computer Vision | Coming Soon |
+> **"Based on his academic performance, intellectual potential, dedication, and personal qualities, I would confidently place Mr. Abdul Sami among the top 10% of students I have taught at The University of Faisalabad. He maintained strong and consistent academic performance throughout his undergraduate studies, demonstrating sound analytical abilities and a systematic approach to technical tasks."**
+> 
+> — **Prof. Dr. Majid Hussain**, *Professor & Dean, Faculty of Information Technology, The University of Faisalabad*  
+> *(Official Letter Ref: TUF/Prof./BSSE/2026/1419)*
 
-**📖 Visit my [Dev.to Profile](https://dev.to/abdulsamiuthwal) | [Medium Blog](https://medium.com/@abdulsamiuthwal)**
+> **"Abdul Sami completed the FlyRank AI Internship Program in the role of Machine Learning Engineering Intern. During the program, Abdul completed 37 practical assignments across Data Wrangling, Embeddings & Clustering, Intent & Opportunity Modeling, and Insight to Action. As the culminating project, he delivered the 'Google Search Ranking & Discoverability Capstone'. Based on this verified completion record, I recommend Abdul for opportunities aligned with Machine Learning Engineering and Applied AI roles."**
+> 
+> — **Alen Malkoc**, *Founder & CEO, FlyRank Corp., USA*  
+> 🔗 **[Verify Official Recommendation](https://internship.flyrank.ai/verify?id=FR-D10-754F4-F4FAF)**
+
+> **"Mr. Abdul Sami has consistently demonstrated a strong commitment to academic excellence. He actively participated in classroom discussions, showed an excellent ability to grasp new concepts, and approached academic challenges with enthusiasm and determination. Beyond his academic performance, he possesses strong analytical abilities, adaptability, and high professional integrity."**
+> 
+> — **Dr. Uzair Saeed**, *Assistant Professor, Department of Computer Science, The University of Faisalabad*  
+> *(Official Letter Ref: TUF/AP/BSSE/2026/1420)*
 
 </div>
 
 ---
 
-## 🎬 **Demo Videos & Walkthroughs**
+## 📈 **Engineering Metrics & Portfolio Summary**
 
 <div align="center">
 
-### 📹 Video Demonstrations
+### 🎯 Career Highlights
 
-- 🔴 **VIGILANT-EYE System** - Real-time object detection walkthrough
-  - [YouTube Demo](https://youtube.com) | [GitHub Demo](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE)
+| Metric | Record | Note |
+|--------|-------|------|
+| **Public Repositories** | 15+ | Focused on ML, CV, NLP & Full-Stack |
+| **Live Deployed Applications** | 4+ | Hosted on Vercel, Render & Hugging Face |
+| **Practical ML Assignments** | 37+ | Completed & Verified at FlyRank Corp. |
+| **Official Industry Credentials** | 12+ Badges | Verified on Credly & Skilljar |
+| **Internships Completed** | 3 Organizations | FlyRank Corp., DEVFORGE, DevelopersHub |
+| **Academic Standing** | Top 10% | Official Dean Recommendation |
 
-- 💬 **AuraSentiment Analysis** - Full application workflow
-  - [Live Demo](https://sentiment-analysis-web-app-gcgl.vercel.app/) | [GitHub Demo](https://github.com/abdulsamiuthwal-eng/Sentiment-Analysis-Web-App)
-
-- 🧠 **RAG Chatbot** - Knowledge retrieval in action
-  - [Hugging Face Demo](https://samiuthwal-scholarai.hf.space/) | [GitHub Demo](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG)
-
-- 🏷️ **Ticket Classification** - Multi-model comparison
-  - [GitHub Documentation](https://github.com/abdulsamiuthwal-eng/PART-2-TASK5_Auto-Tagging-Support-Tickets-Using-LLM)
-
-</div>
-
----
-
-## 📈 **Performance Metrics Dashboard**
-
-<div align="center">
-
-### 🎯 Career Statistics
-
-| Metric | Count | Trend |
-|--------|-------|-------|
-| **GitHub Repositories** | 20+ | ⬆️ Growing |
-| **GitHub Stars** | 150+ | ⬆️ Increasing |
-| **Models Deployed** | 12+ | ⬆️ Active Development |
-| **Projects Completed** | 25+ | ⬆️ Expanding Portfolio |
-| **Code Contributions** | 500+ | ⬆️ Consistent |
-| **Open Source PRs** | 8+ | ⬆️ Contributing |
-| **Technical Articles** | 5+ | 📝 Writing |
-
-### 🔥 Development Stats
+### 🔥 Engineering Snapshot
 
 ```
-Total Commits (2024-2026):     850+
-Lines of Code Written:          50,000+
-Projects in Production:         7+
-Average Model Accuracy:         86%
+Specialization:                 Applied AI & Machine Learning Engineering
+Primary Frameworks:             FastAPI, PyTorch, Scikit-learn, LangChain, OpenCV
+Vector Databases:               ChromaDB, Similarity Search Engines
+Cloud & Deployment:             Vercel, Render, Docker, AWS Educate
 Deployment Success Rate:        98%
 ```
 
@@ -307,81 +276,18 @@ Deployment Success Rate:        98%
 
 ---
 
-## 🤝 **Open Source Contributions**
+## 🛠️ **Applied Open-Source Implementations**
 
 <div align="center">
 
-### 💡 Active Projects
+### 💡 Framework & Architecture Implementations
 
-| Project | Role | Contribution | Impact |
-|---------|------|-------------|--------|
-| **YOLOv8 Custom Models** | Contributor | Custom dataset integration | 🌟 Popular fork |
-| **LangChain Extensions** | Developer | RAG pipeline improvements | 🚀 Used in production |
-| **ChromaDB Optimizations** | Contributor | Query performance tuning | ⚡ 20% faster |
-| **FastAPI Templates** | Creator | Production-ready boilerplate | 📦 Community fork |
-| **ML Preprocessing Utils** | Author | Scikit-learn extensions | 📚 Referenced in articles |
-
-### 🌐 GitHub Contributions
-
-- ✅ Open Source Contributor with 15+ public repositories
-- ✅ Active in ML/AI community collaborations
-- ✅ Regular contributor to research-backed projects
-- ✅ Mentoring junior developers on ML/AI best practices
-
-</div>
-
----
-
-## 📚 **Research & Publications**
-
-<div align="center">
-
-### 🔬 Research Interests
-
-- **Retrieval-Augmented Generation (RAG)** - Semantic search & vector databases
-- **Computer Vision in Real-Time Systems** - Edge deployment & optimization
-- **Transfer Learning & Fine-Tuning** - LLM prompt engineering
-- **ML Model Evaluation** - Metrics, benchmarking, production readiness
-- **Data Engineering Pipelines** - ETL optimization & scalability
-
-### 📰 Published Work
-
-| Title | Status | Focus Area |
-|-------|--------|-----------|
-| "Optimizing RAG Systems for Production Environments" | 📝 Draft | LLMs |
-| "Real-Time Object Detection on Edge Devices" | 📝 Writing | CV |
-| "End-to-End ML Pipeline Best Practices" | 📋 Planning | ML Engineering |
-| "Sentiment Analysis: From Theory to Production" | 📚 Case Study | NLP |
-
-**Note:** Research papers and publications coming soon on academic platforms.
-
-</div>
-
----
-
-## 💬 **Testimonials & Recommendations**
-
-<div align="center">
-
-### ⭐ Professional Feedback
-
-> **"Abdul Sami is an exceptional AI/ML engineer with deep expertise in production systems. His work on RAG architecture and computer vision demonstrates professional-grade quality."**
-> 
-> — *Ms. Sheher Bano, University Supervisor*
-
-> **"Outstanding internship performance. Delivered multiple production-ready ML models with excellent documentation and attention to detail."**
-> 
-> — *DEVFORGE Engineering Team*
-
-> **"Impressive full-stack capabilities combining ML expertise with solid backend and frontend skills. Great team collaborator."**
-> 
-> — *DevelopersHub Corporation*
-
-### 🎯 Full Recommendations
-
-- LinkedIn Recommendations: [View Here](https://linkedin.com/in/abdulsamiuthwal)
-- GitHub Endorsements: Available on profile
-- Academic References: Available upon request
+| Framework / Architecture | Implementation Role | Practical Application |
+|--------------------------|---------------------|-----------------------|
+| **YOLOv8 & OpenCV** | Computer Vision Engineer | Real-time object detection & automated threat surveillance ([VIGILANT-EYE](https://github.com/abdulsamiuthwal-eng/VIGILANT-EYE)) |
+| **LangChain & ChromaDB** | RAG Architect | Semantic document retrieval with persistent vector indexing ([ScholarAI](https://github.com/abdulsamiuthwal-eng/PART-2-TASK_4Context-Aware-Chatbot-Using-LangChain-or-RAG)) |
+| **FastAPI Microservices** | Backend Developer | Low-latency inference endpoints with CORS & Swagger docs ([AuraSentiment](https://github.com/abdulsamiuthwal-eng/Sentiment-Analysis-Web-App)) |
+| **Transformers & NLI** | NLP Engineer | Multi-model evaluation comparing Zero-Shot BART vs Few-Shot Flan-T5 ([Ticket-Tagging](https://github.com/abdulsamiuthwal-eng/PART-2-TASK5_Auto-Tagging-Support-Tickets-Using-LLM)) |
 
 </div>
 
@@ -394,30 +300,18 @@ Deployment Success Rate:        98%
 ### 🚀 Technology Journey
 
 ```
-2024 Q1-Q2: Python Fundamentals → Data Structures
+2024 Q1-Q2: Python Fundamentals → Data Structures & Algorithms
             ↓
-2024 Q3-Q4: Machine Learning → Scikit-learn & TensorFlow
+2024 Q3-Q4: Machine Learning → Scikit-learn, EDA & Model Validation
             ↓
-2025 Q1-Q2: Deep Learning → PyTorch & Computer Vision
+2025 Q1-Q2: Deep Learning & Vision → PyTorch, OpenCV & YOLOv8
             ↓
-2025 Q3-Q4: Full-Stack Dev → FastAPI + React + Firebase
+2025 Q3-Q4: Full-Stack Dev → FastAPI + React + Microservices
             ↓
-2026 Q1:    NLP & LLMs → LangChain & Transformers
+2026 Q1-Q2: NLP & LLMs → LangChain, ChromaDB & RAG Architectures
             ↓
-2026 Q2:    RAG Systems → ChromaDB & Production Deploy
-            ↓
-2026 Q3:    Advanced Specialization → Current Focus
+2026 Q3+:   Applied AI & ML Systems → FlyRank Capstone & Scalable Pipelines
 ```
-
-### 📌 Skill Progression
-
-| Phase | Duration | Key Technologies | Projects |
-|-------|----------|-----------------|----------|
-| **Foundation** | 2024 | Python, SQL, Git | 5+ Academic |
-| **ML Basics** | 2024-2025 | Scikit-learn, Pandas | 8+ ML Projects |
-| **Deep Learning** | 2025 | PyTorch, OpenCV | 6+ DL Projects |
-| **Full-Stack** | 2025-2026 | FastAPI, React | 4+ Production Apps |
-| **Advanced** | 2026+ | LangChain, RAG | 3+ Enterprise |
 
 </div>
 
@@ -425,99 +319,43 @@ Deployment Success Rate:        98%
 
 ## 🎯 Key Competencies
 
-✅ **Machine Learning** — Supervised & unsupervised learning, model evaluation, hyperparameter optimization  
-✅ **Deep Learning** — Computer vision, NLP, transfer learning, fine-tuning, prompt engineering  
-✅ **Retrieval-Augmented Generation (RAG)** — Vector databases, semantic search, LLM orchestration  
-✅ **Natural Language Processing** — Text classification, sentiment analysis, zero-shot & few-shot learning, LLM integration  
-✅ **Computer Vision** — Real-time object detection (YOLOv8), video processing, surveillance systems  
-✅ **Full-Stack Development** — FastAPI backends, React frontends, API design, end-to-end deployment  
-✅ **Data Engineering** — EDA, preprocessing, feature engineering, pipeline optimization  
-✅ **Software Architecture** — Clean code, design patterns, scalable systems, production-grade deployment  
-
----
-
-## 🌟 What I'm Working On
-
-<div align="center">
-
-### 🎯 Current Projects & Roadmap
-
-| Project | Status | ETA | Description |
-|---------|--------|-----|-------------|
-| 🤖 **Multi-Agent AI System** | 🔄 In Progress | Sep 2026 | Autonomous agents with tool orchestration |
-| 📚 **Enterprise RAG Platform** | 🔄 In Progress | Oct 2026 | Scalable knowledge management system |
-| 🎬 **Advanced CV Pipeline** | 🔄 In Progress | Sep 2026 | Real-time anomaly detection in video |
-| 🚀 **AI-Powered SaaS** | 📋 Planning | Q4 2026 | Full-stack AI application |
-| 📊 **ML Research Paper** | 📝 Writing | Nov 2026 | Publishing on production RAG systems |
-| 🔗 **OSS Framework** | 🧪 Testing | Dec 2026 | Open-source ML deployment toolkit |
-| 💡 **AI Blog Series** | 📖 Starting | Aug 2026 | Technical writing on Medium/Dev.to |
-| 🎓 **Community Mentorship** | 🤝 Active | Ongoing | Helping juniors learn ML/AI |
-
-### 🎯 Upcoming Milestones
-
-✅ **Q3 2026:** Complete 5 enterprise-grade ML projects  
-✅ **Q4 2026:** Publish 10+ technical articles  
-✅ **2027:** Contribute to major open-source projects  
-✅ **2027:** Speak at ML conferences  
-✅ **2027:** Launch AI/ML course or workshop  
-
-</div>
+✅ **Machine Learning Engineering** — End-to-end model design, feature pipelines, regression, classification, cross-validation  
+✅ **Retrieval-Augmented Generation (RAG)** — Vector database integration (ChromaDB), semantic search, LLM orchestration  
+✅ **Computer Vision** — Real-time inference pipelines, YOLOv8 object detection, surveillance trigger systems  
+✅ **Natural Language Processing** — Zero-shot & few-shot learning, sentiment analysis, NLI evaluation  
+✅ **High-Performance Backends** — Asynchronous FastAPI endpoints, Streamlit rapid prototypes, RESTful architectures  
+✅ **Software Engineering Best Practices** — Clean architecture, modular packaging, Git version control, reproducible workflows  
 
 ---
 
 ## 🤝 Let's Connect & Collaborate!
 
-### 💼 I'm Interested In:
-
-- **🚀 Collaboration** on ML/AI research projects, RAG systems, and production deployments
-- **💰 Opportunities** in AI/ML engineering roles, data science, full-stack development, and tech startups
-- **📚 Knowledge Sharing** — discussing ML architectures, LLM optimization, CV best practices
-- **🔗 Open Source** — contributing to meaningful projects, creating reusable frameworks
-- **🎓 Mentorship** — mentoring junior developers in ML/AI, learning from senior engineers
-- **🎤 Speaking** — tech talks, workshops, and knowledge-sharing at conferences
-- **📖 Writing** — technical articles, research papers, and case studies
-
-### 🔗 Quick Links
-
 <div align="center">
 
-**📧 Direct Contact**
-[![Email](https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@abdulsamiuthwal.com)
+**📧 Direct Email**  
+[![Email](https://img.shields.io/badge/-abdulsamiuthwal%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulsamiuthwal@gmail.com)
 
-**💼 Professional Networks**
+**💼 Professional Profiles**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulsamiuthwal)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdulsamiuthwal-eng)
-
-**🌐 Digital Presence**
 [![Portfolio](https://img.shields.io/badge/-Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulsamiuthwal-portfolio.vercel.app/)
-[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/abdulsamiuthwal)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@abdulsamiuthwal)
-
-**🎥 Projects & Demos**
-[![Vercel Projects](https://img.shields.io/badge/-Vercel%20Projects-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/abdulsamiuthwal-eng)
+[![Credly](https://img.shields.io/badge/-Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abdul-sami-uthwal)
 [![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/samiuthwal)
-
-**📱 Other Platforms**
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abdulsamiuthwal)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abdulsamiuthwal)
 
 </div>
 
 ---
 
-## 📞 Contact Info
+## 📞 Contact Information
 
 <div align="center">
 
 | Channel | Details | Response Time |
-|---------|---------|---|
-| 📧 **Email** | contact@abdulsamiuthwal.com | 24-48 hours |
-| 💼 **LinkedIn** | [Visit Profile](https://linkedin.com/in/abdulsamiuthwal) | 12-24 hours |
-| 🐙 **GitHub** | [@abdulsamiuthwal-eng](https://github.com/abdulsamiuthwal-eng) | 48 hours |
-| 💬 **Discord** | Available for AI/ML communities | Real-time |
-
-**💡 Best way to reach me:** LinkedIn or Email for professional inquiries  
-**🎯 For collaboration:** Detailed project proposal via email or GitHub issue
+|---------|---------|---------------|
+| 📧 **Email** | [abdulsamiuthwal@gmail.com](mailto:abdulsamiuthwal@gmail.com) | Within 24 hours |
+| 💼 **LinkedIn** | [linkedin.com/in/abdulsamiuthwal](https://linkedin.com/in/abdulsamiuthwal) | Within 12-24 hours |
+| 🐙 **GitHub** | [@abdulsamiuthwal-eng](https://github.com/abdulsamiuthwal-eng) | Regular updates |
+| 🌐 **Portfolio** | [abdulsamiuthwal-portfolio.vercel.app](https://abdulsamiuthwal-portfolio.vercel.app/) | Interactive showcases |
 
 </div>
 
@@ -526,47 +364,12 @@ Deployment Success Rate:        98%
 ## ⭐ Show Your Support
 
 ```
-💫 If you find my work interesting:
-   • Star my repositories ⭐
-   • Follow for updates 👀
-   • Share with your network 🔄
-   • Give feedback & suggestions 💬
-   • Connect & collaborate 🤝
+💫 If you find my work and open repositories helpful:
+   • Star the repositories ⭐
+   • Connect on LinkedIn 🤝
+   • Share feedback & suggestions 💬
+   • Reach out for AI/ML engineering collaborations 🚀
 ```
-
----
-
-## 📊 README Stats
-
-<div align="center">
-
-**This README is continuously updated with latest work, achievements, and projects.**
-
-```
-Profile Views:     ⬆️ Growing
-Repository Stars:  ⭐⭐⭐⭐⭐ 150+
-Active Projects:   🚀 25+
-Code Contributions:🔥 850+
-Community Support: 💪 Active
-```
-
----
-
-### 🎨 Animation Credits
-
-- Typing SVG: [Readme Typing SVG](https://readme-typing-svg.herokuapp.com)
-- GitHub Stats: [GitHub Readme Stats](https://github-readme-stats.vercel.app)
-- Badges: [Shields.io](https://shields.io)
-
----
-
-### 📝 Last Updated
-
-**Current Version:** v2.0 (Enhanced with Animations & Complete Portfolio)  
-**Last Update:** July 2026  
-**Next Update:** Monthly with new projects & achievements
-
-</div>
 
 ---
 
@@ -574,10 +377,7 @@ Community Support: 💪 Active
 
 <div align="center">
 
-> "Code is poetry. AI is the future. Let's build together." — Abdul Sami Uthwal
-
-**Thank you for visiting my profile!**  
-🌟 Feel free to explore, collaborate, and let's create amazing things together!
+> *"Code is craftsmanship. AI is the catalyst. Building reliable systems is the goal."* — **Abdul Sami Uthwal**
 
 **Keep learning. Keep building. Keep innovating.** 🚀
 
