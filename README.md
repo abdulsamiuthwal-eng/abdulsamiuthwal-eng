@@ -24,7 +24,7 @@
 
 I'm a dedicated **AI/ML Engineer** and **Software Developer** with hands-on experience building production-grade machine learning systems, computer vision pipelines, and intelligent web applications. I specialize in translating machine learning models and large language models (LLMs) into scalable, real-world solutions.
 
-With experience across multiple engineering internships—including **FlyRank Corp. (USA)**, **DEVFORGE**, **DecodeLabs**, and **DevelopersHub Corporation**—I have built and deployed end-to-end ML architectures, RAG-driven knowledge assistants, real-time object detection systems, and high-throughput FastAPI backends.
+With experience across multiple engineering internships—including **FlyRank Corp. (USA)**, **DEVFORGE**, **DecodeLabs**, and **Developers Hub**—I have built and deployed end-to-end ML architectures, RAG-driven knowledge assistants, real-time object detection systems, and high-throughput FastAPI backends.
 
 I combine solid theoretical foundations with pragmatic software craftsmanship to solve tangible business problems. Passionate about applied AI, reproducible engineering, and continuous learning.
 
@@ -49,22 +49,25 @@ I combine solid theoretical foundations with pragmatic software craftsmanship to
 - Completed 20 verified Anthropic Academy learning modules and participated in 67 technical project syncs.
 - 🔗 **Verified Credential:** `FR-D10-754F4-F4FAF` — [Verify Official Letter](https://internship.flyrank.ai/verify?id=FR-D10-754F4-F4FAF)
 
-### 🔬 **AI/ML Intern** | **DEVFORGE**
+### 🔬 **AI Engineering Intern** | **DEVFORGE**
 **July 2026 – September 2026**
-- Developed production-grade ML systems and intelligent web applications with measurable performance metrics.
+- Engineered **Larvi — Autonomous Email & Calendar AI Agent** (Capstone) utilizing LangGraph, Gemini 2.5 Flash, FastAPI, SQLite, and Vercel.
 - Built context-aware RAG systems leveraging LangChain, ChromaDB, and high-performance LLMs (Groq / Llama 3.1).
+- Developed **AuraSentiment** end-to-end sentiment classification pipeline achieving 80%+ accuracy with automated test suites.
 - Implemented zero-shot and few-shot classification pipelines for text categorization and support ticket routing.
-- Designed robust ML pipelines with scikit-learn, Pandas, and advanced feature preprocessing.
 
-### 🔬 **AI / Software Engineering Intern** | **DecodeLabs**
-**2026**
-- Collaborated on developing intelligent backend services, automated data preprocessing, and API integration.
-- Tested and optimized machine learning inference workflows for web applications.
+### 🔬 **Artificial Intelligence Intern** | **DecodeLabs**
+**July 25, 2026 – August 25, 2026**
+- Engineered **NeuroVision**, a machine perception system using YOLOv3-tiny and OpenCV for real-time object detection integrated into a Flask web interface.
+- Built supervised ML classification pipelines and developed the **Career Compass** intelligent recommendation engine using React and Flask.
+- Conducted exploratory data analysis, feature engineering, and model validation across multiple production-oriented datasets.
+- 📜 **Credential ID:** `AI086527` (DecodeLabs Virtual Internship Program in Artificial Intelligence)
 
-### 🔬 **AI/ML Intern** | **DevelopersHub Corporation**
-- Developed predictive machine learning models and conducted extensive exploratory data analysis (EDA).
-- Designed regression and classification pipelines with rigorous cross-validation.
-- Optimized preprocessing routines, reducing model training time by **25%**.
+### 🔬 **AI/ML Intern** | **Developers Hub**
+**May 2026 – June 2026**
+- Built a context-aware RAG research assistant utilizing LangChain, ChromaDB, and Groq Llama 3.1 70B with Streamlit UI.
+- Optimized recursive chunking and semantic embeddings over complex academic PDFs, curbing LLM hallucinations.
+- Conducted exploratory data analysis (EDA) and feature engineering on structured datasets, reducing model training time by **25%**.
 
 ---
 
@@ -137,7 +140,7 @@ Automated ticket classification engine comparing zero-shot and few-shot inferenc
 | Category | Proficiency | Technologies |
 |----------|------------|--------------|
 | 🤖 **Machine Learning & AI** | ████████████░░░ 90% | Python, Scikit-learn, Pandas, NumPy, Data Wrangling |
-| 🎬 **Computer Vision** | ███████████░░░░ 88% | OpenCV, YOLOv8, Real-Time Inference, Video Analytics |
+| 🎬 **Computer Vision** | ███████████░░░░ 88% | OpenCV, YOLOv8, YOLOv3-tiny, Real-Time Inference |
 | 🧠 **NLP & LLMs** | ████████████░░░ 90% | LangChain, ChromaDB, HuggingFace, RAG Pipelines, Prompt Engineering |
 | 🌐 **Backend Development** | ███████████░░░░ 88% | FastAPI, Flask, Streamlit, REST APIs, Microservices |
 | 💻 **Frontend Development** | ██████████░░░░░ 82% | React, JavaScript, HTML5, CSS3, Modern UI/UX |
@@ -199,7 +202,8 @@ Automated ticket classification engine comparing zero-shot and few-shot inferenc
 | Achievement / Milestone | Organization | Status | Date |
 |-------------------------|--------------|--------|------|
 | 🤖 **FlyRank AI Internship (ML Track)** | FlyRank Corp. (USA) | ✅ Verified Completion | Sep 2026 |
-| 🔬 **AI/ML Internship** | DEVFORGE | ✅ Completed | Jul - Sep 2026 |
+| 🔬 **AI Engineering Internship** | DEVFORGE | ✅ Completed | Jul - Sep 2026 |
+| 🧠 **AI Virtual Internship** | DecodeLabs | ✅ Verified Completion | Jul - Aug 2026 |
 | 🎓 **Top 10% Academic Standing** | The University of Faisalabad | 🏅 Dean's Recommendation | Oct 2026 |
 | 💬 **AuraSentiment Full-Stack App** | Independent Project | ✅ Production Deployed | Jun 2026 |
 | 🧠 **ScholarAI RAG Chatbot** | Independent Project | ✅ Live on HuggingFace | Jun 2026 |
@@ -259,7 +263,7 @@ Automated ticket classification engine comparing zero-shot and few-shot inferenc
 | **Live Deployed Applications** | 4+ | Hosted on Vercel, Render & Hugging Face |
 | **Practical ML Assignments** | 37+ | Completed & Verified at FlyRank Corp. |
 | **Official Industry Credentials** | 12+ Badges | Verified on Credly & Skilljar |
-| **Internships Completed** | 3 Organizations | FlyRank Corp., DEVFORGE, DevelopersHub |
+| **Internships Completed** | 4 Organizations | FlyRank Corp., DEVFORGE, DecodeLabs, Developers Hub |
 | **Academic Standing** | Top 10% | Official Dean Recommendation |
 
 ### 🔥 Engineering Snapshot
